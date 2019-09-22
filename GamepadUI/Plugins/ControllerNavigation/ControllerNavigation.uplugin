@@ -1,0 +1,24 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "ControllerNavigation",
+  "Description": "A simplified mechanism for navigating through UMG Widgets via Gamepad or Keyboard.",
+  "Category": "Input",
+  "CreatedBy": "Gaslight Games Ltd",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "EngineVersion": "4.23.0",
+  "CanContainContent": true,
+  "IsBetaVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "ControllerNavigation",
+      "Type": "Developer",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
